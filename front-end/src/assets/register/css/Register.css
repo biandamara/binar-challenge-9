@@ -1,0 +1,15 @@
+.Form {
+  width: 300px;
+}
+
+.element{
+  padding: 1rem;
+  box-shadow: 3px;
+  border: 0.4px solid grey;
+  border-radius: 8px;
+  margin: 0 auto;
+}
+
+.bg {
+  background-color: #A5C9CA; 
+}
